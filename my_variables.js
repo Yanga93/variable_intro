@@ -1,0 +1,10 @@
+var sunshine = true;
+var age = 40;
+var surname = "Zukelwa";
+console.log(sunshine);
+console.log(age);
+console.log(surname);
+var date = new Date();
+var fruit = ['apple, banana, orange'];
+console.log(date);
+console.log(fruit);
